@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "ts-node aa.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
